@@ -15,33 +15,6 @@ I specialize in **backend development** and **API design**, with strong skills i
 
 ---
 
-#### 🧩 Software Developer (API) — Entronica Co., Ltd.  
-*Sep 2024 – Present*  
-Focused on backend API development, system deployment, and flow analysis.  
-**Tech Stack:** `Node.js`, `Express`, `Docker`, `Kubernetes`, `GitHub`, `DrawIO`
-
----
-
-#### 🌐 Full Stack Web Developer — Sabuy Technology  
-*Jun 2023 – Feb 2024*  
-Led UX/UI design and full-stack development for internal web applications.  
-**Tech Stack:** `Angular`, `TypeScript`, `SCSS`, `.NET Core`, `Docker`, `Kubernetes`, `GitLab`
-
----
-
-#### 🧪 Software Tester — Muang Thai Life Assurance  
-*Nov 2022 – Jan 2023*  
-Performed manual testing and QA for web applications.  
-**Tech Stack:** `JavaScript`, `GitLab`
-
----
-
-#### 🎮 Freelance Game UI Designer  
-*Nov – Dec 2021*  
-Designed game UI pages using basic web technologies.  
-**Tech Stack:** `HTML`, `CSS`, `JavaScript`, `jQuery`
-
----
 ## ⚙️ Scripting & Automation – My True Power 💥
 
 I have a passion for **building custom scripts** that automate the boring stuff, streamline workflows, and make systems smarter.  
