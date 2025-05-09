@@ -9,7 +9,61 @@ I'm Jiranon Khemklad (Fuse), a passionate and versatile software developer with 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [Workfolio](http://workfolio-six.vercel.app/)
 * ✉️  You can contact me at [jiranon.khemklad@gmail.com](mailto:jiranon.khemklad@gmail.com)
+### 💼 Experience Overview
 
+I specialize in **backend development** and **API design**, with strong skills in **system deployment**, **script automation**, and **UI/UX integration** when needed. I’m particularly confident in designing efficient system flows, optimizing performance, and handling modern DevOps tools such as **Docker** and **Kubernetes**. I also have hands-on experience with **manual testing**, **frontend development**, and even **UI design for games**, making me a flexible and solution-driven developer.
+
+---
+
+#### 🧩 Software Developer (API) — Entronica Co., Ltd.  
+*Sep 2024 – Present*  
+Focused on backend API development, system deployment, and flow analysis.  
+**Tech Stack:** `Node.js`, `Express`, `Docker`, `Kubernetes`, `GitHub`, `DrawIO`
+
+---
+
+#### 🌐 Full Stack Web Developer — Sabuy Technology  
+*Jun 2023 – Feb 2024*  
+Led UX/UI design and full-stack development for internal web applications.  
+**Tech Stack:** `Angular`, `TypeScript`, `SCSS`, `.NET Core`, `Docker`, `Kubernetes`, `GitLab`
+
+---
+
+#### 🧪 Software Tester — Muang Thai Life Assurance  
+*Nov 2022 – Jan 2023*  
+Performed manual testing and QA for web applications.  
+**Tech Stack:** `JavaScript`, `GitLab`
+
+---
+
+#### 🎮 Freelance Game UI Designer  
+*Nov – Dec 2021*  
+Designed game UI pages using basic web technologies.  
+**Tech Stack:** `HTML`, `CSS`, `JavaScript`, `jQuery`
+
+---
+## ⚙️ Scripting & Automation – My True Power 💥
+
+I have a passion for **building custom scripts** that automate the boring stuff, streamline workflows, and make systems smarter.  
+Whether it's backend batch jobs, DevOps pipelines, or quick CLI tools — scripting is my daily weapon of choice.
+
+🛠 Languages & Tools I Use:
+- 🐍 Python – for data processing, automation tools, and quick APIs
+- 🐧 Bash – for Linux automation, CI/CD, and cron jobs
+- 🟦 PowerShell – for Windows scripting and system tasks
+- 🟨 Node.js – for command-line tools, backend scripts
+- 📦 `npm scripts`, `Makefile`, `jq`, `curl`, and more...
+
+🚀 What I’ve Done:
+- Automated deployment scripts for web apps
+- Created CLI tools to analyze and transform large JSON/YAML files
+- Batch processing with Python scripts across systems
+- Real-time log monitoring scripts for server health checks
+- Scripting inside CI/CD pipelines (GitHub Actions, GitLab CI)
+
+> “If it’s repetitive, I’ll write a script to kill it.”
+
+---
 ### Skills
 
 
@@ -24,4 +78,4 @@ I'm Jiranon Khemklad (Fuse), a passionate and versatile software developer with 
 
 ### Badges
 
-<a href="https://github.com/Fuse441" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuse441&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Fuse441" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuse441&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
