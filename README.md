@@ -9,6 +9,28 @@ I'm Jiranon Khemklad (Fuse), a passionate and versatile software developer with 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [Workfolio](http://workfolio-six.vercel.app/)
 * ✉️  You can contact me at [jiranon.khemklad@gmail.com](mailto:jiranon.khemklad@gmail.com)
+
+🚀 Open Source Project
+
+I'm currently building an open-source project called mongoterm — a terminal-based UI (TUI) for working with MongoDB.
+
+mongoterm is designed to bring a fast, keyboard-driven experience to database management directly inside the terminal.
+It focuses on simplicity, performance, and developer productivity — inspired by tools that make the CLI feel powerful and enjoyable to use.
+
+🔧 Key ideas behind the project:
+
+⚡ Fast and lightweight MongoDB interaction in the terminal
+
+⌨️ Fully keyboard-driven workflow (NeoVim-inspired UX)
+
+🧩 Clean and intuitive TUI design
+
+🔍 Easy browsing, querying, and managing collections
+
+“Bringing MongoDB closer to the terminal — fast, minimal, and developer-friendly.”
+
+---
+
 ### 💼 Experience Overview
 
 I specialize in **backend development** and **API design**, with strong skills in **system deployment**, **script automation**, and **UI/UX integration** when needed. I’m particularly confident in designing efficient system flows, optimizing performance, and handling modern DevOps tools such as **Docker** and **Kubernetes**. I also have hands-on experience with **manual testing**, **frontend development**, and even **UI design for games**, making me a flexible and solution-driven developer.
