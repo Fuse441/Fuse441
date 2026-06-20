@@ -11,6 +11,7 @@ I'm Jiranon Khemklad (Fuse), a passionate and versatile software developer with 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [Workfolio](http://workfolio-six.vercel.app/)
 * ✉️  You can contact me at [jiranon.khemklad@gmail.com](mailto:jiranon.khemklad@gmail.com)
+* 🤖  Reddit at [Raddit](https://www.reddit.com/user/Correct-Club9811/)
 
 🚀 Open Source Project
 
