@@ -8,10 +8,11 @@ About me
 
 I'm Jiranon Khemklad (Fuse), a passionate and versatile software developer with hands-on experience in both frontend and backend development. I started my journey in tech through game UI design and gradually expanded into full-stack web development, software testing, and API engineering. With a solid foundation in JavaScript and web technologies, I've contributed to projects involving UX/UI design, system testing, and scalable backend architecture using modern stacks like Angular, .NET Core, and Node.js. I'm also experienced in using tools like Docker, Kubernetes, GitLab/GitHub, and Postman for efficient development and deployment processes. Currently, I'm focused on backend development, API design, and system analysis at Entronica, where I continuously strive to build robust and maintainable systems. I’m driven by curiosity, continuous learning, and a love for solving real-world problems with code.
 
-* 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [Workfolio](http://workfolio-six.vercel.app/)
-* ✉️  You can contact me at [jiranon.khemklad@gmail.com](mailto:jiranon.khemklad@gmail.com)
-* 🤖  Reddit at [Raddit](https://www.reddit.com/user/Correct-Club9811/)
+* 🌍 I'm based in Thailand
+* 🖥️ See my portfolio at [Workfolio](http://workfolio-six.vercel.app/)
+* ✉️ You can contact me at [jiranon.khemklad@gmail.com](mailto:jiranon.khemklad@gmail.com)
+* 🤖 Reddit: https://www.reddit.com/user/Correct-Club9811/
+* 📦 NPM: https://www.npmjs.com/package/mongoterm?activeTab=readme
 
 🚀 Open Source Project
 
